@@ -1,0 +1,15 @@
+models:
+  gigachat:
+    - GigaChat-2
+    - GigaChat-2-Pro
+    - GigaChat-2-Max
+    - GigaChat-3-Ultra
+  yandex:
+    - yandexgpt-4-lite
+    - yandexgpt-5-lite
+    - yandexgpt-5-pro
+    - yandexgpt-5.1
+  mws:
+    - glm       # glm-5.3
+    - kimi      # kimi-k2.6
+    - qwen-mws  # qwen3.6-35b-a3b
