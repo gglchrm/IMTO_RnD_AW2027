@@ -1,4 +1,7 @@
 # The same checks as CI and the agent hook. Install once per clone: uvx pre-commit install
+default_language_version:
+  python: python3.10
+
 repos:
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.30.1
