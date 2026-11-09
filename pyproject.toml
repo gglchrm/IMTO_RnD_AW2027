@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Template for a semester research project (NIR)"
 readme = "README.md"
 license = "MIT"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 dependencies = [
     "mlflow>=3.16",
     "numpy>=2.0",
